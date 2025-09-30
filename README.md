@@ -10,7 +10,7 @@ This project demonstrates advanced Java features including **Swing GUI**, **conc
 
 - **Multi-mode operation**  
   - GUI + Console concurrently  
-  - Headless mode (console only)  
+  - Headless mode (run with --headless)
 
 - **User Login**  
   - Hardcoded credentials:  
